@@ -1,0 +1,15 @@
+ID : ID of row
+V1 : Offer Price in EUROs (Target Variable)
+V2 : Age in months as in August 2004
+V3 : Accumulated Kilometers on odometer
+V4 : Fuel Type (Petrol, Diesel, CNG)
+V5 : Horse Power
+V6 : Cylinder Volume in cubic centimeters
+V7 : Number of doors
+V8 : Quarterly road tax in EUROs
+V9 : Automatic (Yes=1, No=0)
+V10 : Within Manufacturer's Guarantee period (Yes=1, No=0)
+V11 : Guarantee period in months
+V12 : Number of gear positions
+V13 : weight in Kilograms
+V14 : Color (Blue, Red, Grey, Silver, Black, etc.)
