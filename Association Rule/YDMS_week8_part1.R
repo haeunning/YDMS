@@ -25,7 +25,7 @@ summary(ps.trans)
 itemFrequencyPlot(ps.trans,support=0.01,main="item Frequency Plot above support 1%")
 image(sample(ps.trans,replace=FALSE),main="matrix diagram") #검정=거래가 발생한 지점
 
-#연관규칙 분석
+#연관 규칙 분석
 ps_rule<-apriori(ps.trans)
 summary(ps_rule)
 inspect(ps_rule)
