@@ -27,6 +27,6 @@ summary(rules)
 # 신뢰도가 가장 큰 25개의 규칙 찾기
 subrules=head(sort(rules, by="confidence"), 25)
 
-# data.frame으로 결과보기 
+# data.frame으로 결과 보기 
 T=as(subrules, 'data.frame')
 T
